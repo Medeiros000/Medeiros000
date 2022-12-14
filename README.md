@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá Sou Júnior Medeiros
 <div align="center">
   <a href="https://github.com/Medeiros000">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Medeiros000&show_icons=true&theme=github_dark &include_all_commits=true&count_private=true"/>
