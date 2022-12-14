@@ -13,5 +13,5 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/css3-original.svg">
   </div>
   <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/j%C3%BAnior-medeiros-a58072259/" target="_blank"><img src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Linkedin.png"></a>
+  <a href="https://www.linkedin.com/in/j%C3%BAnior-medeiros-a58072259/" target="_blank" rel="noopener noreferrer><img src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Linkedin.png"></a>
   </div>
