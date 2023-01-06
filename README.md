@@ -4,8 +4,8 @@
 🖥️ Estudante Alura One - Dev Full Stack
 <div style="display: inline_block">
   <a href="https://github.com/Medeiros000">
-  <img height="180em" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Medeiros000&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Medeiros000&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="180em" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Medeiros000&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Medeiros000&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/javascript-plain.svg">
