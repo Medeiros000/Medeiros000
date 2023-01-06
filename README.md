@@ -2,7 +2,7 @@
 
 🖥️ Estudante Estácio de Ciências da Computação<br>
 🖥️ Estudante Alura One - Dev Full Stack
-<div style="display: flex; flex-direction: row">
+<div style="display: inline_block">
   <a href="https://github.com/Medeiros000">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Medeiros000&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Medeiros000&layout=compact&langs_count=7&theme=discord_old_blurple"/>
