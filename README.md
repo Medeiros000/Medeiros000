@@ -1,17 +1,21 @@
-## Olá Sou Júnior Medeiros
+## Olá Mundo, sou Jr Medeiros!!!
 
 🖥️ Estudante Estácio de Ciências da Computação<br>
 🖥️ Estudante Alura One - Dev Full Stack
-<div style="display: flex; flex-direction: row; width: 100%;">
+<div>
   <a href="https://github.com/Medeiros000">
-  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Medeiros000&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Medeiros000&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Medeiros000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" width"30em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Medeiros000&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: flex; flex-direction: row; justify-content: center;"><br>
+
+## Skills    
+<div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/css3-original.svg">
-  </div>
+</div>
+    
+## Redes Sociais
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/j%C3%BAnior-medeiros-a58072259/" target="_blank"><img src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Linkedin.png" target="_blank"></a>
 </div>
