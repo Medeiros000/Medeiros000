@@ -1,6 +1,6 @@
 ## Olá Mundo, sou Jr Medeiros!!!
 
-🖥️ Graduando em de Ciências da Computação<br>
+🖥️ Graduando em Ciências da Computação<br>
 🖥️ Estudante Alura One - Dev Full Stack
 <div>
   <a href="https://github.com/Medeiros000">
