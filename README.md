@@ -13,6 +13,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/css3-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/java-original.svg">
 </div>
     
 ## Redes Sociais
