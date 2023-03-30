@@ -1,4 +1,4 @@
-## Olá Mundo, sou Jr Medeiros!!!
+## Hello there!!!
 
 🖥️ Graduando em Ciências da Computação<br>
 🖥️ Estudante Alura One - Dev Full Stack
