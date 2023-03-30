@@ -10,14 +10,19 @@
 
 ## Skills    
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/java-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/JavaScript.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/HTML.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/CSS.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Java-Dark.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/C.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/MySQL-Dark.svg">
+    <img align="center" alt="Idea" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Idea-Dark.svg">
+    <img align="center" alt="Eclipse" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Eclipse-Dark.svg">
+    <img align="center" alt="VsCode" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/VSCode-Dark.svg">
+  
 </div>
     
 ## Redes Sociais
 <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/j%C3%BAnior-medeiros-a58072259/" target="_blank"><img src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Linkedin.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/j%C3%BAnior-medeiros-a58072259/" target="_blank"><img height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/LinkedIn.svg" target="_blank"></a>
 </div>
