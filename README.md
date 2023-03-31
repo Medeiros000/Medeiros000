@@ -15,10 +15,12 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/CSS.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Java-Dark.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/C.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/MySQL-Dark.svg">
-    <img align="center" alt="Idea" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Idea-Dark.svg">
-    <img align="center" alt="Eclipse" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Eclipse-Dark.svg">
-    <img align="center" alt="VsCode" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/VSCode-Dark.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/MySQL-Dark.svg">
+  <img align="center" alt="Idea" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Idea-Dark.svg">
+  <img align="center" alt="Eclipse" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Eclipse-Dark.svg">
+  <img align="center" alt="VsCode" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/VSCode-Dark.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Git.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Github-Dark.svg">
   
 </div>
     
