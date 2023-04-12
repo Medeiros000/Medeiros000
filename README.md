@@ -15,6 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/CSS.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Java-Dark.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/C.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Python-Dark.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/MySQL-Dark.svg">
   <img align="center" alt="Idea" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Idea-Dark.svg">
   <img align="center" alt="Eclipse" height="30" width="40" src="https://github.com/Medeiros000/Medeiros000/blob/main/imagens/Eclipse-Dark.svg">
