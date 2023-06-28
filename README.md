@@ -1,7 +1,7 @@
 ## Hello there!!!
 
 🖥️ Graduando em Ciências da Computação<br>
-🖥️ Estudante Alura One - Dev Back-End
+🖥️ Dev Back-End
 <div>
   <a href="https://github.com/Medeiros000">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Medeiros000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
