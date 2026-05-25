@@ -4,9 +4,9 @@
 🖥️ Dev Back-End
 <div>
   <a href="https://github.com/Medeiros000">
-<!--   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Medeiros000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-<!--   <img height="150em" width"30em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Medeiros000&layout=compact&langs_count=7&theme=dark"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medeiros000&hide_progress=true&layout=compact&langs_count=7&theme=dark">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Medeiros000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" width"30em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Medeiros000&layout=compact&langs_count=7&theme=dark"/>
+  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Medeiros000&hide_progress=true&layout=compact&langs_count=7&theme=dark"> -->
   </div>
 
 ## Skills    
