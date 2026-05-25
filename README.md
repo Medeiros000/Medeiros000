@@ -1,6 +1,6 @@
 ## Hello there!!!
 
-🖥️ Graduando em Ciências da Computação<br>
+🖥️ Bacharel em Ciências da Computação<br>
 🖥️ Dev Back-End
 <div>
   <a href="https://github.com/Medeiros000">
