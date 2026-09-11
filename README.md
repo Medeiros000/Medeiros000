@@ -1,35 +1,49 @@
-## Hello there!!!
 
-🖥️ Bacharel em Ciências da Computação<br>
-🖥️ Dev Back-End
-<div>
-  <a href="https://github.com/Medeiros000">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Medeiros000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" width"30em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Medeiros000&layout=compact&langs_count=7&theme=dark"/>
-  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Medeiros000&hide_progress=true&layout=compact&langs_count=7&theme=dark"> -->
-  </div>
+# Olá, mundo! Eu sou o Antonio 👋
 
-## Skills    
-<div style="display: inline_block"><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  
-</div>
+Sou graduado em **Ciência da Computação** e apaixonado por transformar desafios em soluções eficientes através da tecnologia. Minha trajetória combina desenvolvimento de software, automação de processos, engenharia de dados e infraestrutura.
+
+---
+
+## 🛠️ Conhecimentos & Tecnologias
+
+### **Linguagens de Programação**
+
+`Python` • `JavaScript` • `TypeScript` • `Java` • `PHP` • `R` • `SQL`
+
+### **Desenvolvimento Web & Frameworks**
+
+* **Frontend:** React, Vite, jQuery, DataTables
+* **Backend:** Node.js, Express, Spring Boot, Laravel
+* **Mapeamento & Geolocalização:** Leaflet
+
+### **Bancos de Dados & ORM**
+
+* **Relacionais:** PostgreSQL (PostGIS), MySQL, MariaDB, SQLite
+* **ORM:** Prisma
+
+### **Automação & Ecossistema Microsoft**
+
+* **Microsoft Power Platform:** Power Apps, Power Automate (Cloud & Desktop), Power BI (DAX, Power Query)
+
+### **DevOps, Infraestrutura & Redes**
+
+* Docker, Kubernetes, Linux (Servidores), WSL, Samba
+
+### **Engenharia de Dados & Scraping**
+
+* Construção de pipelines de extração (Selenium), ETL, tratamento e armazenamento de dados geoespaciais.
+
+---
+
+## 🎮 Hobbys & Interesses Pessoais
+
+Quando não estou codando ou estudando para desafios na área técnica, curto bastante:
+
+* **Hardware & Eletrônica:** Modificações de hardware (mods em boards), eletrônica prática (montagem de baterias BMS, cabos customizados/OTG Y).
+* **Emulação & Gaming:** Emulação no ecossistema mobile e longas sessões de RPG em mundo aberto (explorando cada canto de Skyrim).
+
+---
     
 ## Redes Sociais
 <div style="display: inline_block"><br>
