@@ -1,5 +1,5 @@
 
-# Olá, mundo! Eu sou o Antonio 👋
+# Olá, mundo! Eu sou o Júnior 👋
 
 Sou graduado em **Ciência da Computação** e apaixonado por transformar desafios em soluções eficientes através da tecnologia. Minha trajetória combina desenvolvimento de software, automação de processos, engenharia de dados e infraestrutura.
 
@@ -41,7 +41,7 @@ Sou graduado em **Ciência da Computação** e apaixonado por transformar desafi
 Quando não estou codando ou estudando para desafios na área técnica, curto bastante:
 
 * **Hardware & Eletrônica:** Modificações de hardware (mods em boards), eletrônica prática (montagem de baterias BMS, cabos customizados/OTG Y).
-* **Emulação & Gaming:** Emulação no ecossistema mobile e longas sessões de RPG em mundo aberto (explorando cada canto de Skyrim).
+* **Emulação & Gaming:** Emulação no ecossistema mobile e longas sessões de RPG em mundo aberto (explorando cada canto de Skyrim, Death Stranding, Assassin's Creed, etc).
 
 ---
     
